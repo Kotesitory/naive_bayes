@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiveBayesClassifier", "NaiveBayesClassifier\NaiveBayesClassifier.csproj", "{426102E1-9C56-45C1-9D4F-2665E4C1E490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{426102E1-9C56-45C1-9D4F-2665E4C1E490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426102E1-9C56-45C1-9D4F-2665E4C1E490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426102E1-9C56-45C1-9D4F-2665E4C1E490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426102E1-9C56-45C1-9D4F-2665E4C1E490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A631FC5A-76E2-4272-A65E-6145D17FF397}
+	EndGlobalSection
+EndGlobal

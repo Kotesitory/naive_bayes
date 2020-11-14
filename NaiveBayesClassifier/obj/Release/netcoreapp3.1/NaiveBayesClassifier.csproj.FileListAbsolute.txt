@@ -1,0 +1,14 @@
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\bin\Release\netcoreapp3.1\NaiveBayesClassifier.exe
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\bin\Release\netcoreapp3.1\NaiveBayesClassifier.deps.json
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\bin\Release\netcoreapp3.1\NaiveBayesClassifier.runtimeconfig.json
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\bin\Release\netcoreapp3.1\NaiveBayesClassifier.runtimeconfig.dev.json
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\bin\Release\netcoreapp3.1\NaiveBayesClassifier.dll
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\bin\Release\netcoreapp3.1\NaiveBayesClassifier.pdb
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\obj\Release\netcoreapp3.1\NaiveBayesClassifier.Properties.Resources.resources
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\obj\Release\netcoreapp3.1\NaiveBayesClassifier.csproj.GenerateResource.cache
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\obj\Release\netcoreapp3.1\NaiveBayesClassifier.AssemblyInfoInputs.cache
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\obj\Release\netcoreapp3.1\NaiveBayesClassifier.AssemblyInfo.cs
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\obj\Release\netcoreapp3.1\NaiveBayesClassifier.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\obj\Release\netcoreapp3.1\NaiveBayesClassifier.dll
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\obj\Release\netcoreapp3.1\NaiveBayesClassifier.pdb
+C:\Users\Stefan\source\repos\NaiveBayesClassifier\NaiveBayesClassifier\obj\Release\netcoreapp3.1\NaiveBayesClassifier.genruntimeconfig.cache
